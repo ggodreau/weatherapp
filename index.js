@@ -1,6 +1,6 @@
 const request = require('request');
 
-let apiKey = '44751b1678aad9b6add25d891de40887';
+let apiKey = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX';
 let city = 'Austin';
 let url = `http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}`;
 
